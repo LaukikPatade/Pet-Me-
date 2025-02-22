@@ -1,4 +1,3 @@
-"# Pet-Me-" 
 # PET-ME! 🐾
 
 A fun and interactive app that helps you discover and track dog breeds while earning rewards!
