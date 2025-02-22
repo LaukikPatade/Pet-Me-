@@ -9,15 +9,19 @@ A fun and interactive app that helps you discover and track dog breeds while ear
 - Advanced breed recognition powered by MobileNet-v2 model
 - Instant and accurate breed classification
 
-### 📍 Interactive Map
+### 📍 Interactive Map & Dataset
 - View all your discovered dogs on an interactive map
 - Track your dog-spotting journey
 - Build your personal canine discovery database
+- Powered by Kaggle's Dog Breed Identification dataset with 120 breeds
+- Dataset: https://www.kaggle.com/competitions/dog-breed-identification
+- High-quality labeled images for accurate breed recognition
 
 ### 💰 PawCoin Rewards
 - Earn PawCoin tokens for finding rare dog breeds
 - Smart contracts deployed on Sepolia testnet
 - Blockchain-based reward system using Solidity
+
 
 ## Technical Stack 🛠
 
